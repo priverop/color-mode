@@ -1,0 +1,25 @@
+{
+  "name": "color-mode",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "nuxi preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priverop/color-mode.git"
+  },
+  "dependencies": {
+    "nuxt-edge": "latest",
+    "@nuxt/bridge": "npm:@nuxt/bridge-edge",
+    "@nuxtjs/color-mode": "^3.1.8"
+  },
+  "author": "Pablo Rivero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/priverop/color-mode/issues"
+  },
+  "homepage": "https://github.com/priverop/color-mode#readme"
+}
